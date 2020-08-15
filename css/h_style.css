@@ -1,0 +1,58 @@
+body {
+    background-color: #c9d6df;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #111d5e;
+    padding: 5% 5% 0;
+    font-size: 3rem;
+}
+
+.name {
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+
+.rasid {
+    float: left;
+    padding: 50px 50px 50px 30px;
+    padding-right: 40px;
+}
+
+.biplab {
+    float: right;
+    padding: 50px 50px 50px 30px;
+    padding-left: 40px;
+}
+
+.teacher {
+    width: 60%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+hr {
+    border: none;
+    border-top: thick double #32a1ce;
+    width: 10%;
+}
+
+
+/* Footer Section */
+
+.fab {
+    margin: 2% 1%;
+}
+
+#footer {
+    text-align: center;
+    padding: 2% 14%;
+    background-color: #d6efc7;
+}

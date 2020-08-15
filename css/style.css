@@ -1,0 +1,90 @@
+body {
+    text-align: center;
+    background-color: #f0f5f9;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+.top {
+    position: fixed;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #111d5e;
+    padding: 5% 5% 2%;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+hr {
+    border: none;
+    border-top: thick double #32a1ce;
+}
+
+p {
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+#middle {
+    background-color: #c9d6df;
+}
+
+.fas {
+    margin-right: 10%;
+}
+
+
+/* College image section */
+
+.college-img {
+    margin-bottom: 1.5%;
+}
+
+@media (max-width:500px) {
+    .college-img {
+        height: 250px;
+        width: 300px;
+    }
+    h1 {
+        font-size: 2rem;
+        padding: 1.5%;
+    }
+}
+
+.dept {
+    text-align: left;
+    padding: 5% 2%;
+}
+
+.fas {
+    margin-right: 2%;
+}
+
+.con {
+    padding: 2% 5% 2%;
+}
+
+a {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.3rem;
+}
+
+.right {
+    float: right;
+}
+
+.fab {
+    margin: 2% 1%;
+}
+
+#footer {
+    text-align: center;
+    padding: 2% 14%;
+    background-color: #d6efc7;
+}
